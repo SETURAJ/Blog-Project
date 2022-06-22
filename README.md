@@ -1,2 +1,2 @@
 # Blog-Project
-Bulid a blog app using MERN stack
+Blog app using MERN stack
